@@ -1,0 +1,8 @@
+1000|mohannad|waleed|3.5|computer science|cairo|male|mohannad@gmail.com|0122345678|2003
+2000|maryam|waleed|3.5|computer science|cairo|male|mohannad@gmail.com|0122345678|2003
+3000|mariam|waleed|3.5|computer science|cairo|female|mohannad@gmail.com|0122345678|2003
+4000|mostafa|waleed|3.5|computer science|cairo|male|mohannad@gmail.com|0122345678|2003
+5000|abdelrahman|waleed|3.5|computer science|cairo|male|mohannad@gmail.com|0122345678|2003
+6000|tasneem|waleed|3.5|computer science|cairo|female|mohannad@gmail.com|0122345678|2003
+eslam|saeed|4|computer science|cairo|male|eslam@gmail.com|0122344567|1990
+1234|asds|ddfdw|3.5|dasdsad|dasdww|qwdsa|drrf|0123456789|2345

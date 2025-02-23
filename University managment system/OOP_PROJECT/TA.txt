@@ -1,0 +1,3 @@
+1000|Mohannad|Waleed|Male|mohannad@gmail.com|Computer Science|Physics
+2000|Mariam|Yasser|Female|mariam@gmail.com|Computer Science|English
+3000|Maryam|Elkady|Female|maryam@gmail.com|Computer Science|cs

@@ -1,0 +1,5 @@
+1000|Mohannad|Waleed|Male|mohannad@gmail.com|Computer Science|Physics
+2000|Mariam|Yasser|Female|mariam@gmail.com|Computer Science|English
+3000|Maryam|Elkady|Female|maryam@gmail.com|Computer Science|cs201
+9999|tasneem|hesham|Female|tasneem@gmail.com|Computer Science|cs211
+9000|abdelrahman|ellaboudy|male|ellaboudy@gmail.com|Computer Science|cs102
